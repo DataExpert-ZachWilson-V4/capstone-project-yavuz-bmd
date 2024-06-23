@@ -36,6 +36,9 @@ My wife owns a business Bake My Day Organic Bakery (organicbakeryaustin.com), sh
 # Design
 ![alt text](images/design.png)
 
+# Final Output
+![alt text](images/final_output.png)
+
 # Common Commands and Details
 
 python3 -m venv venv
@@ -115,6 +118,3 @@ pkill -f "airflow webserver"
 nohup airflow scheduler &
 
 ps aux | grep airflow
-
-# Final Output
-![alt text](images/final_output.png)
